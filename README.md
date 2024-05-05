@@ -1,3 +1,5 @@
+This version of the mod is archived, meaning it isn't actively being maintained and won't get bugfixes and else.
+
 [<img src="https://github.com/sn0wfrog/modding-badges/blob/main/Available%20on%20Modrinth.png" alt="Available on Modrinth" width="200"/>](https://modrinth.com/mod/mob-armor-trims)
 
 # Mob Armor Trims
